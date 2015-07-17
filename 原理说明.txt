@@ -1,0 +1,2 @@
+在application中配置一个全局定时器 规定多长时间去服务器端获取一次数据 （写一个service 这个service就是去服务端请求数据的 但是这个service的启动时根据广播通知）
+获取到数据后在本地存储 使用reciver广播通知activity活动页有更新了 在activity中进行拦截广播 并展示数据

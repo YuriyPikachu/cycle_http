@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="true" jdk="Android API 19 Platform" jdk_type="Android SDK">
+	<output-test url="file://$MODULE_DIR$/out/test/XinTiaobaoDemo"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="xUtils-2.6.14-zcj-2014.12.8-release" value="project"/>
+	</levels>
+</component>

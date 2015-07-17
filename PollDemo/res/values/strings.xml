@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PollDemo</string>
+
+    <!-- 工具类使用 -->
+    <string name="strSwitchON">开</string>
+    <string name="strSwitchOFF">关</string>
+    <string name="strUserGuideEnter">开始帮帮</string>
+    <string name="strUnknown">未知</string>
+    <string name="strCMCC">中国移动</string>
+    <string name="strChinaUnicom">中国联通</string>
+    <string name="strChinaTelecom">中国电信</string>
+    <string name="strVersionNotFound">无法找到版本号</string>
+    <string name="strVerion">version</string>
+    <string name="strFeedbackTag">反馈意见</string>
+    <string name="strEvaluateTag">评价内容</string>
+    <string name="strInputFeedbackHint">请输入反馈意见</string>
+    <string name="strInputEvaluate">请给我们评价</string>
+</resources>
